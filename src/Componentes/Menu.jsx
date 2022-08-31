@@ -7,13 +7,6 @@ export default function Menu() {
     
       <div>
         <div className='p'>
-        <Link to="/Inicio">
-            Inicio
-        </Link>
-        </div> 
-
-
-        <div className='p'>
         <Link to="/Produto">
             Produto
         </Link>
