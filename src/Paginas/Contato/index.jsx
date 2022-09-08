@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function contato() {
+export default function Contato() {
   return (
     <div>Você chegou nos contatos</div>
   )
